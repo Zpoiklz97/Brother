@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lazymario.png">
+  <!-- Generated using Aseprite .json to FNF .xml: https://github.com/Lethrial/Aseprite-.json-to-FNF-.xml -->
+  <SubTexture name="idle 0" x="0" y="0" width="96" height="80"/>
+  <SubTexture name="idle 1" x="0" y="0" width="96" height="80"/>
+  <SubTexture name="idle 2" x="0" y="0" width="96" height="80"/>
+  <SubTexture name="idle 3" x="0" y="0" width="96" height="80"/>
+  <SubTexture name="idle 4" x="0" y="0" width="96" height="80"/>
+  <SubTexture name="idle 5" x="0" y="0" width="96" height="80"/>
+  <SubTexture name="idle 6" x="96" y="0" width="96" height="80"/>
+  <SubTexture name="idle 7" x="0" y="0" width="96" height="80"/>
+  <SubTexture name="idle 8" x="0" y="0" width="96" height="80"/>
+  <SubTexture name="idle 9" x="96" y="0" width="96" height="80"/>
+  <SubTexture name="idle 10" x="0" y="0" width="96" height="80"/>
+  <SubTexture name="idle 11" x="0" y="0" width="96" height="80"/>
+  <SubTexture name="left 0" x="192" y="0" width="96" height="80"/>
+  <SubTexture name="left 1" x="288" y="0" width="96" height="80"/>
+  <SubTexture name="right 0" x="0" y="80" width="96" height="80"/>
+  <SubTexture name="right 1" x="96" y="80" width="96" height="80"/>
+  <SubTexture name="up 0" x="192" y="80" width="96" height="80"/>
+  <SubTexture name="up 1" x="288" y="80" width="96" height="80"/>
+  <SubTexture name="down 0" x="0" y="160" width="96" height="80"/>
+  <SubTexture name="down 1" x="96" y="160" width="96" height="80"/>
+</TextureAtlas>

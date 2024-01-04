@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lazyluigi.png">
+  <!-- Generated using Aseprite .json to FNF .xml: https://github.com/Lethrial/Aseprite-.json-to-FNF-.xml -->
+  <SubTexture name="idle 0" x="0" y="0" width="64" height="67"/>
+  <SubTexture name="idle 1" x="64" y="0" width="64" height="67"/>
+  <SubTexture name="idle 2" x="0" y="0" width="64" height="67"/>
+  <SubTexture name="idle 3" x="128" y="0" width="64" height="67"/>
+  <SubTexture name="idle 4" x="0" y="0" width="64" height="67"/>
+  <SubTexture name="idle 5" x="64" y="0" width="64" height="67"/>
+  <SubTexture name="idle 6" x="0" y="0" width="64" height="67"/>
+  <SubTexture name="idle 7" x="128" y="0" width="64" height="67"/>
+  <SubTexture name="right 0" x="192" y="0" width="64" height="67"/>
+  <SubTexture name="right 1" x="0" y="67" width="64" height="67"/>
+  <SubTexture name="up 0" x="64" y="67" width="64" height="67"/>
+  <SubTexture name="up 1" x="128" y="67" width="64" height="67"/>
+  <SubTexture name="down 0" x="192" y="67" width="64" height="67"/>
+  <SubTexture name="down 1" x="0" y="134" width="64" height="67"/>
+  <SubTexture name="left 0" x="64" y="134" width="64" height="67"/>
+  <SubTexture name="left 1" x="128" y="134" width="64" height="67"/>
+</TextureAtlas>
