@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "jump",
+			"fps": 12,
+			"name": "jump",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "hammer",
+			"fps": 12,
+			"name": "hammer",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "danceleft"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "danceright"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "spin",
+			"indices": [],
+			"name": "spin-loop"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "thunder",
+			"indices": [],
+			"name": "thunder"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "yay!"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "nintendo",
+			"fps": 12,
+			"name": "tendo",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/luigiREDUX",
+	"position": [
+		-18,
+		465
+	],
+	"healthicon": "luigi",
+	"flip_x": true,
+	"healthbar_colors": [
+		34,
+		177,
+		76
+	],
+	"camera_position": [
+		-65,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
